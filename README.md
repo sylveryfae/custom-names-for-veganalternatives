@@ -1,6 +1,6 @@
 # Custom Names for Vegan Alternatives
-(ENG) Ressource Pack to change the names of the blocks and items of which the recipes have changed in the Vegan Alternatives Datapack
-(FR) Pack de Ressources pour changer les noms des blocks et items pour lesquels la recette a été changée dans le Datapack Vegan Alternatives
+(ENG) Ressource Pack to change the names of the blocks and items of which the recipes have changed in the Vegan Alternatives Datapack.  
+(FR) Pack de Ressources pour changer les noms des blocks et items pour lesquels la recette a été changée dans le Datapack Vegan Alternatives.
 
 ## English
 **README.md under construction** (I may change the layout)
@@ -9,7 +9,7 @@ The goal of this ressource pack is to add to my Vegan Alternatives Datapack by c
 
 This language Ressource Pack has all English (UK, USA, Canada, New Zealand and Australia) languages in the game, plus the two french ones (France and Canada). I may add Pirate and/or nyan cat languages at some point, but it's not 100% guaranteed.
 
-[**Link to the Vegan Alternatives Datapack**] (https://github.com/Sylveryfae/veganalternatives)
+**[Link to the Vegan Alternatives Datapack](https://github.com/Sylveryfae/veganalternatives)**
 
 ### Download Instructions
 - Go to Releases by :
@@ -26,7 +26,7 @@ Le but de ce pack de ressources est d'ajouter à mon datapack Vegan Alternatives
 
 Ce Pack de Ressources de langues a toutes les langues anglaises du jeu (Royaume-Uni, USA, Canada, Nouvelle-Zélande et Australie), ainsi que les deux françaises (France et Canada). C'est possible que je rajotue les langues Pirate et Nyan Cat (dérivés de l'anglais), mais ce n'est pas garanti à 100%.
 
-[**Lien vers le Datapack Vegan Alternatives**] (https://github.com/Sylveryfae/veganalternatives)
+**[Lien vers le Datapack Vegan Alternatives](https://github.com/Sylveryfae/veganalternatives)**
 
 ### Instructions de Téléchargement
 - Allez dans Releases en :
