@@ -1,4 +1,4 @@
-# custom-names-for-veganalternatives
+# Custom Names for Vegan Alternatives
 (ENG) Ressource Pack to change the names of the blocks and items of which the recipes have changed in the Vegan Alternatives Datapack
 (FR) Pack de Ressources pour changer les noms des blocks et items pour lesquels la recette a été changée dans le Datapack Vegan Alternatives
 
