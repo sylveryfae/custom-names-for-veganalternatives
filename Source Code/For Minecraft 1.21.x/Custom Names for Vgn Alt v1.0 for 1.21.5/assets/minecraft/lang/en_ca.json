@@ -1,0 +1,15 @@
+{
+    "block.minecraft.honeycomb_block": "Caramel Block",
+    "item.minecraft.honeycomb": "Caramel",
+    "advancements.husbandry.wax_on.description": "Apply Caramel to a Copper block!",
+    "item.minecraft.ink_sac": "Coal Ink",
+    "item.minecraft.glow_ink_sac": "Glowing Coal Ink",
+    "subtitles.item.ink_sac.use": "Ink splotches",
+    "subtitles.item.glow_ink_sac.use": "Glow Ink splotches",
+    "block.minecraft.honey_block": "Glow Berries Jam Block",
+    "item.minecraft.honey_bottle": "Glow Berries Jam",
+    "subtitles.block.honey_block.slide": "Sliding down a jam block",
+    "advancements.adventure.honey_block_slide.description": "Jump into a Glow Berries Jam Block to break your fall",
+    "item.minecraft.leather": "Vegan Leather",
+    "item.minecraft.milk_bucket": "Pumpkin Milk"
+}
