@@ -1,0 +1,15 @@
+{
+    "block.minecraft.honeycomb_block": "Bloc de caramel",
+    "item.minecraft.honeycomb": "Caramel",
+    "advancements.husbandry.wax_on.description": "Cirez un bloc de cuivre avec du caramel.",
+    "item.minecraft.ink_sac": "Poudre de charbon",
+    "item.minecraft.glow_ink_sac": "Poudre de charbon luisante",
+    "subtitles.item.ink_sac.use": "Poudre de charbon qui tache",
+    "subtitles.item.glow_ink_sac.use": "Poudre de charbon luisante qui tache",
+    "block.minecraft.honey_block": "Bloc de confiture de baies lumineuses",
+    "item.minecraft.honey_bottle": "Fiole de confiture de baies lumineuses",
+    "subtitles.block.honey_block.slide": "Glissement contre un bloc de confiture",
+    "advancements.adventure.honey_block_slide.description": "Sautez contre un bloc de confiture pour ralentir votre chute.",
+    "item.minecraft.leather": "Cuir vegan",
+    "item.minecraft.milk_bucket": "Lait de citrouille"
+}
